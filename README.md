@@ -14,7 +14,7 @@ The package contains logging extensions used by other CodeGator packages.
 * Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
 
 #### What platform(s) does it support?
-* .NET Core 3.1 or higher
+* .NET 5.x or higher
 
 #### How do I install it?
 The binary is hosted on [NuGet](https://www.nuget.org/packages/CG.Logging/). To install the package using the NuGet package manager:

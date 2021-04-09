@@ -44,7 +44,6 @@ namespace Microsoft.Extensions.Hosting
 
             // Call the use method for the strategy.
             applicationBuilder.UseStrategies(
-                hostEnvironment,
                 configurationSection
                 );
 
