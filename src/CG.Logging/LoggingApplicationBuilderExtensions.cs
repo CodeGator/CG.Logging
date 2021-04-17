@@ -7,9 +7,9 @@ namespace Microsoft.Extensions.Hosting
 {
     /// <summary>
     /// This class contains extension methods related to the <see cref="IApplicationBuilder"/>
-    /// types.
+    /// types, for registering types related to logging.
     /// </summary>
-    public static partial class ApplicationBuilderExtensions
+    public static partial class LoggingApplicationBuilderExtensions
     {
         // *******************************************************************
         // Public methods.
