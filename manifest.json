@@ -13,96 +13,12 @@
       "is_incremental": false
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.LoggingServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.LoggingServiceCollectionExtensions.html",
-          "hash": "mk25LSZKsxIAdXIwo1ogMm3zaO6RmMf6+viH2FsQxkE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-          "hash": "bVRE0WFF8MqpLDNVTO9c92dysZaP+Zeul9t4C0i5v+w="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
-          "hash": "Lr4s2WrTqLP7gYi3q7fGSsy0kmuOzC6O0aDpdNkmda8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html",
-          "hash": "ZxFr9a1Z7T5nGSmw6kXVeUvJfpyZfxwc0wM/W82X60s="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.Hosting.LoggingApplicationBuilderExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.Hosting.LoggingApplicationBuilderExtensions.html",
-          "hash": "hQhK/i+o1JOSc0sf7hx94La56DQh2sCGy94qNkitXSM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.Hosting.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.Hosting.html",
-          "hash": "PHC+gKu2IEdaGxukOiNd8fvMyat6wxSGIEopJJKu69M="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "J4pAIWYh8uS8sxYbh92zpxu+cZXPOfQkaygQ5DhLjgw="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "gcp1JB3/cLklcT+72krfnba+6CuoFkaQtheZ9cEBdjQ="
+          "hash": "OgOIdp+68sKjWkO8X7/eMKamv9SPvmhi1lIB7IfCk/4="
         }
       },
       "is_incremental": false,
@@ -170,7 +86,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "6JQJeG5d1D8daUVOrAPW12s7vqV78RKjA15F403DDSw="
+          "hash": "ZZeuKjcA8K1mZGQSfqxykmMZ8wb3UF7maSqLiRMXDew="
         }
       },
       "is_incremental": false,
@@ -182,7 +98,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "eTCzZ9U2tvJ2aJ4gUa3bj1beY4/7hVaUWpaP8Ig9Y2E="
+          "hash": "qqllsf1CWYkRG9b5bG7NDXj39xysQrjYX8iYLKl9Z08="
         }
       },
       "is_incremental": false,
@@ -204,12 +120,6 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 2,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 6,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
