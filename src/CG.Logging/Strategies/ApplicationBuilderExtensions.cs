@@ -25,16 +25,13 @@ namespace Microsoft.Extensions.Hosting
         /// for the operation.</param>
         /// <param name="hostEnvironment">The hosting environment to use for the
         /// application.</param>
-        /// <param name="configurationSection">The configuration section to use 
-        /// for the operation.</param>
         /// <returns>The value of the <paramref name="applicationBuilder"/>
         /// parameter, for chaining calls together.</returns>
         /// <exception cref="ArgumentException">This exception is thrown whenever
         /// one or more of the required parameters is missing or invalid.</exception>
         public static IApplicationBuilder UseDoNothingStrategies(
             this IApplicationBuilder applicationBuilder,
-            IWebHostEnvironment hostEnvironment,
-            string configurationSection
+            IWebHostEnvironment hostEnvironment
             )
         {
             // Nothing to do here, just an example method.

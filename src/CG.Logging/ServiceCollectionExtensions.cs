@@ -8,7 +8,7 @@ namespace Microsoft.Extensions.DependencyInjection
     /// This class contains extension methods related to the <see cref="IServiceCollection"/>
     /// types, for registering types related to logging
     /// </summary>
-    public static partial class LoggingServiceCollectionExtensions
+    public static partial class ServiceCollectionExtensions
     {
         // *******************************************************************
         // Public methods.
