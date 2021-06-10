@@ -36,7 +36,7 @@ namespace CG.Logging.QuickStart
         {
             app.UseLogging(
                 env,
-                "Services:Logging"
+                Configuration.GetSection("Services:Logging")
                 );
         }
     }
