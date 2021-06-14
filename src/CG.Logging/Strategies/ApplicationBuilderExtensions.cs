@@ -31,7 +31,7 @@ namespace Microsoft.Extensions.Hosting
         /// one or more of the required parameters is missing or invalid.</exception>
         public static IApplicationBuilder UseDoNothingStrategies(
             this IApplicationBuilder applicationBuilder,
-            IWebHostEnvironment hostEnvironment
+            IHostEnvironment hostEnvironment
             )
         {
             // Nothing to do here, just an example method.

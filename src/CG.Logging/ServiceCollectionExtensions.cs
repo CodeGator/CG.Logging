@@ -40,8 +40,7 @@ namespace Microsoft.Extensions.DependencyInjection
 
             // Logging is a little different in that we don't actually define 
             //   an ILogger type, since it's already part of .NET, and we don't
-            //   define a concrete Logger type, since that's already part of the 
-            //   Microsoft extensions, for .NET.
+            //   define a concrete Logger type, since that's also part of .NET.
             // What we do here is try to adapt our strategy loader methods so they
             //   work with whatever strategy is currently configured, for logging,
             //   just like our other strategy and/or repository based abstractions.

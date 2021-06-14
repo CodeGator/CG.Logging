@@ -1,7 +1,5 @@
-﻿using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-using System;
 
 namespace CG.Logging.QuickStart
 {
@@ -9,9 +7,14 @@ namespace CG.Logging.QuickStart
     {
         static void Main(string[] args)
         {
-            WebHost.CreateDefaultBuilder<Startup>(args)
-                .Build()
-                .Run();
+            var host = Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>(); // < -- call our startup class ...
+                })
+                .Build();
+
+            host.Start();
         }
     }
 }
