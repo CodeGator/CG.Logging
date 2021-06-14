@@ -25,7 +25,7 @@ namespace CG.Logging.QuickStart
             )
         {
             services.AddLogging(
-                Configuration.GetSection("Services:Logging")
+                Configuration.GetSection("Logging")
                 );
         }
 
@@ -36,7 +36,7 @@ namespace CG.Logging.QuickStart
         {
             app.UseLogging(
                 env,
-                Configuration.GetSection("Services:Logging")
+                Configuration.GetSection("Logging")
                 );
         }
     }
