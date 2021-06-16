@@ -13,12 +13,72 @@
       "is_incremental": false
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
+          "hash": "dLKwAgvCUmw0EFLn+UKo2F17k7lqzcf/e/9aoQzB8wM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
+          "hash": "qHSGwDa78aL5bRJ+NeHisYYkisXLP962xMKW+bMP/mk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html",
+          "hash": "hwUIBqewErVvUx195gDaPoQ20G44D9qoCv1BNarsrCE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Hosting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Hosting.html",
+          "hash": "7CeskfoWwOgqHX4EH8HcbqTXVNFTaygLswzDY+rnOgE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "rMqKLHGNPAhKZB/dcQpMgDGet0FnHIHtFjOsJ8BWAII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "OgOIdp+68sKjWkO8X7/eMKamv9SPvmhi1lIB7IfCk/4="
+          "hash": "3lFGsZn+vpYCWz7OututIOBGsz91XMn2mjINvNxc584="
         }
       },
       "is_incremental": false,
@@ -86,7 +146,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "ZZeuKjcA8K1mZGQSfqxykmMZ8wb3UF7maSqLiRMXDew="
+          "hash": "jTeK/grvtbwsAzEZbV0RK3VKzBXl+uhyZpjpZt6M32I="
         }
       },
       "is_incremental": false,
@@ -98,7 +158,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "qqllsf1CWYkRG9b5bG7NDXj39xysQrjYX8iYLKl9Z08="
+          "hash": "eTCzZ9U2tvJ2aJ4gUa3bj1beY4/7hVaUWpaP8Ig9Y2E="
         }
       },
       "is_incremental": false,
@@ -120,6 +180,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

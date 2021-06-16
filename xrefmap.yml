@@ -1,3 +1,79 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: Microsoft.Extensions.DependencyInjection
+  name: Microsoft.Extensions.DependencyInjection
+  href: api/Microsoft.Extensions.DependencyInjection.html
+  commentId: N:Microsoft.Extensions.DependencyInjection
+  fullName: Microsoft.Extensions.DependencyInjection
+  nameWithType: Microsoft.Extensions.DependencyInjection
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  name: AddDoNothingStrategies(IServiceCollection, IConfiguration, ServiceLifetime)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddDoNothingStrategies_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  nameWithType: ServiceCollectionExtensions.AddDoNothingStrategies(IServiceCollection, IConfiguration, ServiceLifetime)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies*
+  name: AddDoNothingStrategies
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddDoNothingStrategies_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingStrategies
+  nameWithType: ServiceCollectionExtensions.AddDoNothingStrategies
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  name: AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  nameWithType: ServiceCollectionExtensions.AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging*
+  name: AddLogging
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging
+  nameWithType: ServiceCollectionExtensions.AddLogging
+- uid: Microsoft.Extensions.Hosting
+  name: Microsoft.Extensions.Hosting
+  href: api/Microsoft.Extensions.Hosting.html
+  commentId: N:Microsoft.Extensions.Hosting
+  fullName: Microsoft.Extensions.Hosting
+  nameWithType: Microsoft.Extensions.Hosting
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
+  name: ApplicationBuilderExtensions
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html
+  commentId: T:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
+  nameWithType: ApplicationBuilderExtensions
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment)
+  name: UseDoNothingStrategies(IApplicationBuilder, IHostEnvironment)
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseDoNothingStrategies_Microsoft_AspNetCore_Builder_IApplicationBuilder_Microsoft_Extensions_Hosting_IHostEnvironment_
+  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment)
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Hosting.IHostEnvironment)
+  nameWithType: ApplicationBuilderExtensions.UseDoNothingStrategies(IApplicationBuilder, IHostEnvironment)
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies*
+  name: UseDoNothingStrategies
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseDoNothingStrategies_
+  commentId: Overload:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingStrategies
+  nameWithType: ApplicationBuilderExtensions.UseDoNothingStrategies
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Configuration.IConfiguration)
+  name: UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_Microsoft_AspNetCore_Builder_IApplicationBuilder_Microsoft_AspNetCore_Hosting_IWebHostEnvironment_Microsoft_Extensions_Configuration_IConfiguration_
+  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Configuration.IConfiguration)
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Microsoft.Extensions.Configuration.IConfiguration)
+  nameWithType: ApplicationBuilderExtensions.UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging*
+  name: UseLogging
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_
+  commentId: Overload:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging
+  nameWithType: ApplicationBuilderExtensions.UseLogging
