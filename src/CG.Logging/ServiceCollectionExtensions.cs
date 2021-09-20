@@ -50,7 +50,8 @@ namespace Microsoft.Extensions.DependencyInjection
             // Register the strategy(s).
             serviceCollection.AddStrategies(
                 configuration,
-                serviceLifetime
+                serviceLifetime,
+                "Logging"
                 );
 
             // Return the service collection.
