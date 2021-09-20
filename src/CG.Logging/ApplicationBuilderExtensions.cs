@@ -45,7 +45,8 @@ namespace Microsoft.Extensions.Hosting
             // Call the use method for the strategy.
             applicationBuilder.UseStrategies(
                 hostEnvironment,
-                configuration
+                configuration,
+                "Logging"
                 );
 
             // Return the builder.

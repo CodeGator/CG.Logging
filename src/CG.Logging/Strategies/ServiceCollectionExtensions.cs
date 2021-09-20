@@ -28,7 +28,7 @@ namespace Microsoft.Extensions.DependencyInjection
         /// parameter, for chaining calls together.</returns>
         /// <exception cref="ArgumentException">This exception is thrown whenever
         /// a required argument is missing or invalid.</exception>
-        public static IServiceCollection AddDoNothingStrategies(
+        public static IServiceCollection AddDoNothingLoggingStrategies(
             this IServiceCollection serviceCollection,
             IConfiguration configuration,
             ServiceLifetime serviceLifetime = ServiceLifetime.Scoped

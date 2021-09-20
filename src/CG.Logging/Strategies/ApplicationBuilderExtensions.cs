@@ -29,7 +29,7 @@ namespace Microsoft.Extensions.Hosting
         /// parameter, for chaining calls together.</returns>
         /// <exception cref="ArgumentException">This exception is thrown whenever
         /// one or more of the required parameters is missing or invalid.</exception>
-        public static IApplicationBuilder UseDoNothingStrategies(
+        public static IApplicationBuilder UseDoNothingLoggingStrategies(
             this IApplicationBuilder applicationBuilder,
             IHostEnvironment hostEnvironment
             )
