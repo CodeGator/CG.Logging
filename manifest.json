@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-          "hash": "MhdgTBwR8U1FC5buvwczV7saTyPT9oY39VmXp69Wmfo="
+          "hash": "BJxt/8iezti6K0yrfj21sUg+sFFW7UWW7/7+WtKdV4M="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html",
-          "hash": "Emq6bL++bp+Qtw6xSRibtZpY/UIXAVmHZgEcY1yADaI="
+          "hash": "gnYM8bjCkFRnaDavox5EbjDYuQZnLPz6joDVX4Sw29M="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.Hosting.html",
-          "hash": "YGwbDoo9Q3ZJXGYb2KIkUg3Jj8nN6I2ehs1tClfRebU="
+          "hash": "c/fI67sC3QbZMMXKMUyawYHOJB89MJpIvdyPUNnvbxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Logging.BootstrapLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Logging.BootstrapLogger.html",
+          "hash": "18TeYo2KTrmGE2uLEH5wFcMNG0GzJzHj1QNTH3xYu7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Logging.html",
+          "hash": "UlQbMQpiSc+eWPxH0EhH242u/mhHW0z7lO7qUWuRBt0="
         }
       },
       "is_incremental": false,
@@ -66,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "rMqKLHGNPAhKZB/dcQpMgDGet0FnHIHtFjOsJ8BWAII="
+          "hash": "jfrROZsrF7U0Mp/gyv9YCEYcbH92bBcdhB9+wl6nLeo="
         }
       },
       "is_incremental": false,
@@ -185,7 +209,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 6,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

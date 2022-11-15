@@ -13,24 +13,11 @@ references:
   commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
   fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
   nameWithType: ServiceCollectionExtensions
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  name: AddDoNothingLoggingStrategies(IServiceCollection, IConfiguration, ServiceLifetime)
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddDoNothingLoggingStrategies_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
-  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  nameWithType: ServiceCollectionExtensions.AddDoNothingLoggingStrategies(IServiceCollection, IConfiguration, ServiceLifetime)
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies*
-  name: AddDoNothingLoggingStrategies
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddDoNothingLoggingStrategies_
-  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies
-  isSpec: "True"
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddDoNothingLoggingStrategies
-  nameWithType: ServiceCollectionExtensions.AddDoNothingLoggingStrategies
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
   name: AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
-  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_Microsoft_Extensions_DependencyInjection_IServiceCollection_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection, IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
   nameWithType: ServiceCollectionExtensions.AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
 - uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging*
   name: AddLogging
@@ -51,24 +38,11 @@ references:
   commentId: T:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
   fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
   nameWithType: ApplicationBuilderExtensions
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment)
-  name: UseDoNothingLoggingStrategies(IApplicationBuilder, IHostEnvironment)
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseDoNothingLoggingStrategies_Microsoft_AspNetCore_Builder_IApplicationBuilder_Microsoft_Extensions_Hosting_IHostEnvironment_
-  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment)
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Hosting.IHostEnvironment)
-  nameWithType: ApplicationBuilderExtensions.UseDoNothingLoggingStrategies(IApplicationBuilder, IHostEnvironment)
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies*
-  name: UseDoNothingLoggingStrategies
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseDoNothingLoggingStrategies_
-  commentId: Overload:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies
-  isSpec: "True"
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseDoNothingLoggingStrategies
-  nameWithType: ApplicationBuilderExtensions.UseDoNothingLoggingStrategies
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Configuration.IConfiguration)
+- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder,IWebHostEnvironment,IConfiguration)
   name: UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_Microsoft_AspNetCore_Builder_IApplicationBuilder_Microsoft_AspNetCore_Hosting_IWebHostEnvironment_Microsoft_Extensions_Configuration_IConfiguration_
-  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Configuration.IConfiguration)
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Microsoft.Extensions.Configuration.IConfiguration)
+  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_IApplicationBuilder_IWebHostEnvironment_IConfiguration_
+  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder,IWebHostEnvironment,IConfiguration)
+  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
   nameWithType: ApplicationBuilderExtensions.UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
 - uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging*
   name: UseLogging
@@ -77,3 +51,136 @@ references:
   isSpec: "True"
   fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging
   nameWithType: ApplicationBuilderExtensions.UseLogging
+- uid: Microsoft.Extensions.Logging
+  name: Microsoft.Extensions.Logging
+  href: api/Microsoft.Extensions.Logging.html
+  commentId: N:Microsoft.Extensions.Logging
+  fullName: Microsoft.Extensions.Logging
+  nameWithType: Microsoft.Extensions.Logging
+- uid: Microsoft.Extensions.Logging.BootstrapLogger
+  name: BootstrapLogger
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html
+  commentId: T:Microsoft.Extensions.Logging.BootstrapLogger
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger
+  nameWithType: BootstrapLogger
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.#ctor
+  name: BootstrapLogger()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger__ctor
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.#ctor
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.BootstrapLogger()
+  nameWithType: BootstrapLogger.BootstrapLogger()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.#ctor*
+  name: BootstrapLogger
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger__ctor_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.#ctor
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.BootstrapLogger
+  nameWithType: BootstrapLogger.BootstrapLogger
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.Instance
+  name: Instance()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_Instance
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.Instance
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.Instance()
+  nameWithType: BootstrapLogger.Instance()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.Instance*
+  name: Instance
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_Instance_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.Instance
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.Instance
+  nameWithType: BootstrapLogger.Instance
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical
+  name: LogLevelToCritical()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToCritical
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical()
+  nameWithType: BootstrapLogger.LogLevelToCritical()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical*
+  name: LogLevelToCritical
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToCritical_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToCritical
+  nameWithType: BootstrapLogger.LogLevelToCritical
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug
+  name: LogLevelToDebug()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToDebug
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug()
+  nameWithType: BootstrapLogger.LogLevelToDebug()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug*
+  name: LogLevelToDebug
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToDebug_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToDebug
+  nameWithType: BootstrapLogger.LogLevelToDebug
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError
+  name: LogLevelToError()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToError
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError()
+  nameWithType: BootstrapLogger.LogLevelToError()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError*
+  name: LogLevelToError
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToError_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToError
+  nameWithType: BootstrapLogger.LogLevelToError
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation
+  name: LogLevelToInformation()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToInformation
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation()
+  nameWithType: BootstrapLogger.LogLevelToInformation()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation*
+  name: LogLevelToInformation
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToInformation_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToInformation
+  nameWithType: BootstrapLogger.LogLevelToInformation
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace
+  name: LogLevelToTrace()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToTrace
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace()
+  nameWithType: BootstrapLogger.LogLevelToTrace()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace*
+  name: LogLevelToTrace
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToTrace_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToTrace
+  nameWithType: BootstrapLogger.LogLevelToTrace
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning
+  name: LogLevelToWarning()
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToWarning
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning()
+  nameWithType: BootstrapLogger.LogLevelToWarning()
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning*
+  name: LogLevelToWarning
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_LogLevelToWarning_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.LogLevelToWarning
+  nameWithType: BootstrapLogger.LogLevelToWarning
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.Microsoft#Extensions#Logging#ILogger#IsEnabled(Microsoft.Extensions.Logging.LogLevel)
+  name: ILogger.IsEnabled(LogLevel)
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_Microsoft_Extensions_Logging_ILogger_IsEnabled_Microsoft_Extensions_Logging_LogLevel_
+  commentId: M:Microsoft.Extensions.Logging.BootstrapLogger.Microsoft#Extensions#Logging#ILogger#IsEnabled(Microsoft.Extensions.Logging.LogLevel)
+  name.vb: Microsoft.Extensions.Logging.ILogger.IsEnabled(LogLevel)
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)
+  nameWithType: BootstrapLogger.ILogger.IsEnabled(LogLevel)
+  nameWithType.vb: BootstrapLogger.Microsoft.Extensions.Logging.ILogger.IsEnabled(LogLevel)
+- uid: Microsoft.Extensions.Logging.BootstrapLogger.Microsoft#Extensions#Logging#ILogger#IsEnabled*
+  name: ILogger.IsEnabled
+  href: api/Microsoft.Extensions.Logging.BootstrapLogger.html#Microsoft_Extensions_Logging_BootstrapLogger_Microsoft_Extensions_Logging_ILogger_IsEnabled_
+  commentId: Overload:Microsoft.Extensions.Logging.BootstrapLogger.Microsoft#Extensions#Logging#ILogger#IsEnabled
+  isSpec: "True"
+  name.vb: Microsoft.Extensions.Logging.ILogger.IsEnabled
+  fullName: Microsoft.Extensions.Logging.BootstrapLogger.Microsoft.Extensions.Logging.ILogger.IsEnabled
+  nameWithType: BootstrapLogger.ILogger.IsEnabled
+  nameWithType.vb: BootstrapLogger.Microsoft.Extensions.Logging.ILogger.IsEnabled
