@@ -1,6 +1,4 @@
-﻿using CG.Validations;
-using Microsoft.Extensions.Configuration;
-using System;
+﻿
 
 namespace Microsoft.Extensions.DependencyInjection
 {
@@ -42,8 +40,8 @@ namespace Microsoft.Extensions.DependencyInjection
             //   an ILogger type, since it's already part of .NET, and we don't
             //   define a concrete Logger type, since that's also part of .NET.
             // What we do here is try to adapt our strategy loader methods so they
-            //   work with whatever strategy is currently configured, for logging,
-            //   just like our other strategy and/or repository based abstractions.
+            //   work with whatever strategy is currently configured, just like
+            //   our other strategy and/or repository based abstractions.
 
             // So, no service type to register here ...
 
