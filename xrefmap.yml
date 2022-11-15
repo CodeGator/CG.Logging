@@ -1,56 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Microsoft.Extensions.DependencyInjection
-  name: Microsoft.Extensions.DependencyInjection
-  href: api/Microsoft.Extensions.DependencyInjection.html
-  commentId: N:Microsoft.Extensions.DependencyInjection
-  fullName: Microsoft.Extensions.DependencyInjection
-  nameWithType: Microsoft.Extensions.DependencyInjection
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  name: ServiceCollectionExtensions
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
-  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  nameWithType: ServiceCollectionExtensions
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  name: AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_Microsoft_Extensions_DependencyInjection_IServiceCollection_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
-  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection,IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging(Microsoft.Extensions.DependencyInjection.IServiceCollection, IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
-  nameWithType: ServiceCollectionExtensions.AddLogging(IServiceCollection, IConfiguration, ServiceLifetime)
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging*
-  name: AddLogging
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddLogging_
-  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging
-  isSpec: "True"
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddLogging
-  nameWithType: ServiceCollectionExtensions.AddLogging
-- uid: Microsoft.Extensions.Hosting
-  name: Microsoft.Extensions.Hosting
-  href: api/Microsoft.Extensions.Hosting.html
-  commentId: N:Microsoft.Extensions.Hosting
-  fullName: Microsoft.Extensions.Hosting
-  nameWithType: Microsoft.Extensions.Hosting
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
-  name: ApplicationBuilderExtensions
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html
-  commentId: T:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions
-  nameWithType: ApplicationBuilderExtensions
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder,IWebHostEnvironment,IConfiguration)
-  name: UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_IApplicationBuilder_IWebHostEnvironment_IConfiguration_
-  commentId: M:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder,IWebHostEnvironment,IConfiguration)
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
-  nameWithType: ApplicationBuilderExtensions.UseLogging(IApplicationBuilder, IWebHostEnvironment, IConfiguration)
-- uid: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging*
-  name: UseLogging
-  href: api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html#Microsoft_Extensions_Hosting_ApplicationBuilderExtensions_UseLogging_
-  commentId: Overload:Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging
-  isSpec: "True"
-  fullName: Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.UseLogging
-  nameWithType: ApplicationBuilderExtensions.UseLogging
 - uid: Microsoft.Extensions.Logging
   name: Microsoft.Extensions.Logging
   href: api/Microsoft.Extensions.Logging.html

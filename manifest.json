@@ -14,54 +14,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-          "hash": "BJxt/8iezti6K0yrfj21sUg+sFFW7UWW7/7+WtKdV4M="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
-          "hash": "1zj9WOftQA+hNCDvNXlzirVRnbpzS94uu34KwLjajyE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.Hosting.ApplicationBuilderExtensions.html",
-          "hash": "gnYM8bjCkFRnaDavox5EbjDYuQZnLPz6joDVX4Sw29M="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.Hosting.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.Hosting.html",
-          "hash": "c/fI67sC3QbZMMXKMUyawYHOJB89MJpIvdyPUNnvbxk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Microsoft.Extensions.Logging.BootstrapLogger.yml",
       "output": {
         ".html": {
@@ -90,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "jfrROZsrF7U0Mp/gyv9YCEYcbH92bBcdhB9+wl6nLeo="
+          "hash": "8QDzkB3uGaM/H0zkhKzidtlq7voyP6uYnUXM4QwGA3k="
         }
       },
       "is_incremental": false,
@@ -182,7 +134,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "eTCzZ9U2tvJ2aJ4gUa3bj1beY4/7hVaUWpaP8Ig9Y2E="
+          "hash": "R5d2j0mUsYVtrVkMrFwxzL31XGGwQAIyzWFX66vX0b4="
         }
       },
       "is_incremental": false,
@@ -209,7 +161,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 6,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
