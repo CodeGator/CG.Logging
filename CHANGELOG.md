@@ -1,7 +1,12 @@
 # CG.Logging change log
 ---
 
+## 2023.1
+
+* bug fixes
+
 ## 2022.1
+
 * I switched the runtime to .net 6.0
 * bug fixes
 * I added the bootstrap logger
