@@ -5,12 +5,10 @@
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Nullable>enable</Nullable>
-		<Description>
-			The package defines logging extensions used by other CodeGator packages.
+		<Description>The package defines logging extensions used by other CodeGator packages.
 
-			Platforms supported:
-			.NET 6.x or above
-		</Description>
+Platforms supported:
+   .NET 6.x or above		</Description>
 		<Copyright>Copyright © 2019 - 2022 by CodeGator. All rights reserved.</Copyright>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/CodeGator/CG.Logging</PackageProjectUrl>
@@ -19,6 +17,8 @@
 		<PackageTags>ILogger, log, logging, logger, CG.Logging, CodeGator</PackageTags>
 		<PackageIcon>packageDefaultIcon-50x50.png</PackageIcon>
 		<PackageIconUrl />
+		<Authors>Martin Cook</Authors>
+		<Company>CodeGator</Company>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
